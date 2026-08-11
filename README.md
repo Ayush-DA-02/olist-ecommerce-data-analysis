@@ -1,4 +1,3 @@
-
 # Olist E-Commerce Data Analysis
 
 ## 📌 Project Overview
@@ -25,16 +24,3 @@ This project presents an end-to-end data analysis of the Olist E-Commerce datase
 ---
 
 ## 📁 Repository Structure
-'''
-olist-ecommerce-data-analysis/
-│
-├── data/                  # Raw and processed datasets (or dataset links)
-├── notebooks/             # Jupyter notebooks for EDA and processing
-├── sql/                   # PostgreSQL scripts and queries
-├── reports/               # Visualizations, dashboards, or final reports
-└── README.md              # Project documentation
-'''
-## 🚀 How to Run / Reproduce
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git](https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git)
