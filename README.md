@@ -40,8 +40,3 @@ olist-ecommerce-data-analysis/
    ```bash
    git clone [https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git](https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git)
    ```
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Notebooks:** Open Jupyter Notebook and execute the analysis scripts.
