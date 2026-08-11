@@ -60,7 +60,7 @@ SELECT
     ) AS repeat_customer_percentage
 FROM customer_orders;
 
---8. Which payment methods are most frequently used by customers?
+--6. Which payment methods are most frequently used by customers?
 SELECT
     payment_type,
     COUNT(*) AS payment_count,
