@@ -39,4 +39,3 @@ olist-ecommerce-data-analysis/
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git](https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git)
-   ```
