@@ -24,14 +24,24 @@ This project presents an end-to-end data analysis of the Olist E-Commerce datase
 ---
 
 ## 📁 Repository Structure
+
+```text
 olist-ecommerce-data-analysis/
 │
 ├── data/                  # Raw and processed datasets
 ├── notebooks/             # Jupyter notebooks for EDA
 ├── sql/                   # PostgreSQL scripts and queries
 └── README.md              # Project documentation
+```
 
 ## 🚀 How to Run / Reproduce
+
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git
+   git clone [https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git](https://github.com/Ayush-DA-02/olist-ecommerce-data-analysis.git)
+   ```
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Notebooks:** Open Jupyter Notebook and execute the analysis scripts.
